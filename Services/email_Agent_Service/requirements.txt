@@ -1,0 +1,7 @@
+requests
+pandas
+flask
+flask_cors
+pymongo
+PyPDF2
+dotenv
