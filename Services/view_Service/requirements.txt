@@ -1,0 +1,13 @@
+requests
+pandas
+json
+flask
+flask_cors
+email
+smtplib
+pymongo
+base64
+PyPDF2
+dotenv
+io
+math
